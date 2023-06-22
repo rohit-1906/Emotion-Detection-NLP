@@ -8,6 +8,6 @@ The dataset used for this project consists of a collection of text documents lab
 # Technologies Used
 The project is implemented using the following technologies and libraries:
 
-Python 3.9.6
-pandas 1.3.0
-scikit-learn 0.24.2
+->Python 3.9.6
+->pandas 1.3.0
+->scikit-learn 0.24.2
