@@ -1,7 +1,8 @@
-#Emotion Detection using Tf-idf Vectorizer
+# Emotion Detection using Tf-idf Vectorizer
+
 This project implements emotion detection using Tf-idf vectorization technique. It aims to classify text documents into different emotion categories based on the content of the text.
 
-##Dataset
+# Dataset
 The dataset used for this project consists of a collection of text documents labeled with different emotions. Each document is associated with one or more emotion labels. The dataset can be obtained from [source link].
 
 #Technologies Used
